@@ -31,7 +31,7 @@ https://{your_url}.pwskills.app:5000/
 - Home Page: Search Channel Name
 ![ytHome]
 - Results :
-![yt_res1](https://user-images.githubusercontent.com/87609950/224355846-c7bb6e54-1f6e-45ed-9f3f-4ece5c41329f.jpg)
+![yt_res1]
 - Database :
 ![yt_db]
 
