@@ -29,11 +29,14 @@ To access your flask application open new tab in and paste the url:
 https://{your_url}.pwskills.app:5000/
 ```
 - Home Page: Search Channel Name
-![ytHome]
+![ytHome]![Screenshot 2023-03-20 214840](https://user-images.githubusercontent.com/97967936/226414482-813d27bd-c090-4cf6-a5b6-eb89907a34b9.png)
+
 - Results :
-![yt_res1]
+![yt_res1]![Screenshot (22)](https://user-images.githubusercontent.com/97967936/226414518-ede155dd-3e41-4f4d-8ba4-10ba746c539d.png)
+
 - Database :
-![yt_db]
+![yt_db]![Screenshot (23)](https://user-images.githubusercontent.com/97967936/226417381-9b2d57e6-6110-4e93-af1b-ac99b240e184.png)
+
 
 - according to ques:
 
